@@ -1,0 +1,14 @@
+{
+  "builds": [
+    {
+      "src": "drive-mad/dist/index.html",
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "drive-mad/dist/index.html"
+    }
+  ]
+}
