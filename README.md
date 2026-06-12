@@ -2,9 +2,9 @@
 
 A WebAssembly driving game with 26+ visual overlay effects — rain, lightning, fireflies, drift smoke, Nyan Cat, photo mode, recording, and more.
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://drive-mad-game.vercel.app)
+[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://drive-mad-game-neon.vercel.app)
 
-**Live Demo:** [https://drive-mad-game.vercel.app](https://drive-mad-game.vercel.app)
+**Live Demo:** [https://drive-mad-game-neon.vercel.app](https://drive-mad-game-neon.vercel.app)
 
 ## Controls
 
